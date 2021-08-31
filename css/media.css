@@ -1,0 +1,476 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/*header start*/
+.nav_tog i{
+	font-size: 22px;
+}
+.menu{
+	margin: 5px auto;
+}
+.menu ul li a{
+	padding: 3px !important;
+	text-align: center;
+}
+/*header end*/
+/*part1 start*/
+.part1{
+	margin-bottom: 30px;
+}
+.text1 h1{
+	margin-top: 25px;
+	font-size: 20px;
+}
+.text1 p{
+	font-size: 14px;
+}
+.img1 img{
+	margin: 30px auto;
+}
+.visit{
+	margin: 25px;
+	padding: 5px 25px;
+	font-size: 12px;
+}
+/*part1 end*/
+/*part2 start*/
+.text2{
+	margin-top: 30px;
+	text-align: center !important;
+}
+.text2 h1{
+	font-size: 40px;
+}
+.text2 p{
+	font-size: 16px;
+}
+.enjoy h2{
+	margin-top: 20px;
+	font-size: 40px;
+}
+.order{
+	margin-top: 15px;
+	padding: 5px 25px;
+	font-size: 12px;
+}
+/*part2 end*/
+/*part3 start*/
+.text3{
+	margin: 20px auto;
+}
+.text3 h2{
+	font-size: 24px;
+}
+.text3 p{
+	margin: 25px auto;
+	font-size: 16px;
+}
+.text3 h1{
+	margin: 30px auto;
+	font-size: 30px;
+}
+.text3 h3{
+	font-size: 16px;
+}
+/*part3 end*/
+/*part4 start*/
+.part4{
+	margin-bottom: 30px;
+}
+.text4 h1{
+	margin: 30px auto;
+	font-size: 25px;
+}
+.text4 p{
+	margin-bottom: 80px;
+	font-size: 12px;
+}
+.text4 h2{
+	font-size: 20px;
+}
+.text4 h3{
+	font-size: 20px;
+	word-spacing: 0px;
+}
+/*part4 end*/
+/*part5 start*/
+.text5{
+	margin-bottom: 30px;
+}
+.text5 p{
+	font-size: 12px;
+}
+.text5 h6{
+	font-size: 12px;
+}
+/*part5 end*/
+/*part6 start*/
+.text6{
+	margin: 30px auto;
+}
+.text6 h2{
+	font-size: 40px;
+}
+.text6 p{
+	font-size: 15px;
+}
+.text6 h6{
+	font-size: 15px;
+}
+.text6 h1{
+	font-size: 20px;
+}
+.text6 h3{
+	font-size: 20px;
+	word-spacing: 0px;
+}
+/*par
+/*part6 end*/
+/*footer start*/
+footer{
+	margin-bottom: 40px;
+}
+.menu2 {
+	margin: 25px auto;
+}
+.menu2 ul li a{
+	margin: 0px 30px;
+}
+.menu2 ul li:last-child a{
+	margin-right: 40px;
+}
+.icon ul li{
+	margin-right: 15px !important;
+}
+.icon ul li a{
+	width: 35px;
+	height: 35px;
+}
+.icon ul li a i{
+	font-size: 24px;
+}
+/*footer end*/
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+.nav_tog i{
+	font-size: 30px;
+}
+.menu{
+	margin: 10px auto;
+}
+.menu ul li a{
+	padding: 5px !important;
+	text-align: center;
+}
+/*header end*/
+/*part1 start*/
+.text1 h1{
+	margin-top: 30px;
+	font-size: 34px;
+}
+.text1 p{
+	font-size: 18px;
+}
+.img1 img{
+	margin: 40px auto;
+}
+.visit{
+	margin: 30px;
+	padding: 5px 30px;
+	font-size: 16px;
+}
+/*part1 end*/
+/*part2 start*/
+.text2{
+	margin-top: 40px;
+	text-align: center !important;
+}
+.text2 h1{
+	font-size: 50px;
+}
+.text2 p{
+	font-size: 20px;
+}
+.enjoy h2{
+	margin-top: 20px;
+	font-size: 60px;
+}
+.order{
+	margin-top: 15px;
+	padding: 5px 35px;
+	font-size: 16px;
+}
+/*part2 end*/
+/*part3 start*/
+.text3{
+	margin: 40px auto;
+}
+.text3 h2{
+	font-size: 36px;
+}
+.text3 p{
+	margin: 30px auto;
+	font-size: 20px;
+}
+.text3 h1{
+	margin: 35px auto;
+	font-size: 40px;
+}
+.text3 h3{
+	font-size: 24px;
+}
+/*part3 end*/
+/*part4 start*/
+.text4 h1{
+	margin: 30px auto;
+	font-size: 35px;
+}
+.text4 p{
+	margin-bottom: 100px;
+	font-size: 19px;
+}
+.text4 h2{
+	font-size: 25px;
+}
+.text4 h3{
+	font-size: 25px;
+	word-spacing: 0px;
+}
+/*part4 end*/
+/*part5 start*/
+.text5{
+	margin-bottom: 30px;
+}
+.text5 p{
+	font-size: 19px;
+}
+.text5 h6{
+	font-size: 19px;
+}
+/*part5 end*/
+/*part6 start*/
+.text6{
+	margin: 40px auto;
+}
+.text6 h2{
+	font-size: 50px;
+}
+.text6 p{
+	font-size: 23px;
+}
+.text6 h6{
+	font-size: 20px;
+}
+.text6 h1{
+	font-size: 25px;
+}
+.text6 h3{
+	font-size: 25px;
+	word-spacing: 0px;
+}
+/*part6 end*/
+/*footer start*/
+footer{
+	margin-bottom: 60px;
+}
+.menu2 {
+	margin: 25px auto;
+}
+.menu2 ul li a{
+	margin-right: 25px;
+}
+.icon ul li{
+	margin-right: 15px !important;
+}
+.icon ul li a{
+	width: 40px;
+	height: 40px;
+}
+.icon ul li a i{
+	font-size: 28px;
+}
+/*footer end*/
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.min_logo{
+	width: 80%;
+}
+.menu{
+	margin: 15px auto;
+}
+.menu ul li a{
+	padding: 5px !important;
+	text-align: center;
+}
+/*header end*/
+/*part1 start*/
+.text1 h1{
+	margin-top: 40px;
+	font-size: 45px;
+}
+.text1 p{
+	font-size: 24px;
+}
+.img1 img{
+	margin: 50px auto;
+}
+.visit{
+	margin: 40px;
+	padding: 10px 40px;
+	font-size: 20px;
+}
+/*part1 end*/
+/*part2 start*/
+.img2{
+	margin-top: 30px;
+}
+.text2{
+	margin-top: 40px;
+}
+.text2 h1{
+	font-size: 60px;
+}
+.text2 p{
+	font-size: 26px;
+}
+.enjoy h2{
+	font-size: 80px;
+}
+.order{
+	padding: 10px 45px;
+	font-size: 20px;
+}
+/*part2 end*/
+/*part3 start*/
+.text3{
+	margin: 50px auto;
+}
+.text3 h2{
+	font-size: 48px;
+}
+.text3 p{
+	margin: 40px auto;
+	font-size: 24px;
+}
+.text3 h1{
+	font-size: 60px;
+}
+.text3 h3{
+	margin-top: 40px;
+	font-size: 32px;
+}
+/*part3 end*/
+/*part4 start*/
+.part4{
+	margin-bottom: 40px;
+}
+.text4 h1{
+	margin: 30px auto;
+	font-size: 45px;
+}
+.text4 p{
+	margin-bottom: 220px;
+	font-size: 19px;
+}
+.text4 h2{
+	font-size: 32px;
+}
+.text4 h3{
+	font-size: 30px;
+	word-spacing: 0px;
+}
+/*part4 end*/
+/*part5 start*/
+.text5{
+	margin-bottom: 40px;
+}
+.text5 p{
+	font-size: 19px;
+}
+.text5 h6{
+	font-size: 19px;
+}
+/*part5 end*/
+/*part6 start*/
+.text6{
+	margin: 40px auto;
+}
+.text6 h2{
+	font-size: 45px;
+}
+.text6 p{
+	font-size: 15px;
+}
+.text6 h6{
+	font-size: 15px;
+}
+.text6 h1{
+	font-size: 25px;
+}
+.text6 h3{
+	font-size: 25px;
+	word-spacing: 0px;
+}
+/*part6 end*/
+/*footer start*/
+footer{
+	margin-bottom: 70px;
+}
+.menu2 {
+	margin: 30px auto;
+}
+.menu2 ul li a{
+	margin-right: 50px;
+}
+.icon ul li{
+	margin-right: 15px !important;
+}
+.icon ul li a{
+	width: 40px;
+	height: 40px;
+}
+.icon ul li a i{
+	font-size: 28px;
+}
+/*footer end*/
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*part2 start*/
+.text2 p{
+  font-size: 28px;
+}
+/*part2 end*/
+/*part3 start*/
+.text3 p{
+	font-size: 30px;
+}
+/*part3 end*/
+/*part4 start*/
+.text4 p{
+	font-size: 25px;
+}
+/*part4 end*/
+/*part5 start*/
+.text5 p{
+	font-size: 25px;
+}
+/*part5 end*/
+/*part6 start*/
+.text6 p{
+	font-size: 21px;
+}
+/*part6 end*/
+}
+
+/* // X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+/* // XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {}
